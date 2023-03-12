@@ -1,0 +1,25 @@
+		      Shreya Retail Shop
+
+ Bill Number : 2929
+ Customer Name : Anwita Banerjee
+ Phone Number : 7980858907
+ ==========================================================
+ Products			Quantity			Price
+ ==========================================================
+ Bath Soap			4			Rs 160
+ Face Wash			2			Rs 120
+ Body Lotion			2			Rs 360
+ Oil			5			Rs 900
+ Wheat			4			Rs 960
+ Sugar			2			Rs 90
+ Thums Up			3			Rs 255
+ Coca-Cola			3			Rs 240
+ Mazza			1			Rs 90
+ Sprite			2			Rs 150
+ ==========================================================
+ Cosmetic Tax : Rs 115.2
+ Grocery Tax : Rs 390.0
+ Cold Drinks Tax : Rs 110.25
+ ==========================================================
+ Total : Rs 3940.45
+ ==========================================================

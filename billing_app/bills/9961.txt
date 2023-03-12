@@ -1,0 +1,22 @@
+		      Shreya Retail Shop
+
+ Bill Number : 9961
+ Customer Name : Shreya Banerjee
+ Phone Number : 8100201863
+ ==========================================================
+ Products			Quantity			Price
+ ==========================================================
+ Bath Soap			4			Rs 160
+ Face Wash			2			Rs 120
+ Hair Gel			2			Rs 280
+ Body Lotion			1			Rs 180
+ Thums Up			3			Rs 255
+ Coca-Cola			3			Rs 240
+ Mazza			2			Rs 180
+ Sprite			1			Rs 75
+ ==========================================================
+ Cosmetic Tax : Rs 133.2
+ Cold Drinks Tax : Rs 112.5
+ ==========================================================
+ Total : Rs 1735.7
+ ==========================================================
