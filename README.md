@@ -1,6 +1,5 @@
 # Billing-Software
 
-# Billing-Software
 This is a sample billing app based on GUI.
 
 Step 1:
